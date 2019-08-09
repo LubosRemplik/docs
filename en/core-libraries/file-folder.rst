@@ -12,8 +12,8 @@ Basic Usage
 
 Ensure the classes are loaded::
 
-    use Cake\Filesystem\Folder;
     use Cake\Filesystem\File;
+    use Cake\Filesystem\Folder;
 
 Then we can setup a new folder instance::
 
